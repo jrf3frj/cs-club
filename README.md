@@ -11,3 +11,4 @@ After forking this repository, you can make some changes to the project, and sub
 ## Contributors
   
 * [Chance Feick](https://github.com/chancefeick/)
+* [Justin Fleming](https://github.com/jrf3frj/)
